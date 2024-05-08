@@ -27,3 +27,9 @@ Tracy Chemtai.
 
 ## QUIZ API
 https://my-json-server.typicode.com/tracychemtai/phase-2-project-quiz-app/results
+
+## Live Link.
+
+
+## Copyright and Licensing Information.
+c 2024 Tracy Chemtai. All Rights Reserved.

@@ -50,6 +50,7 @@ const Quiz = () => {
     }
   };
 
+//   Function to move to the next question.
   const next = () => {
     if (lock === true) {
       if (index === questions.length - 1) {

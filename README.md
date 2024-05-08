@@ -6,3 +6,8 @@ Trivia Time is an application that is built using React.js and db.json API. It p
 
 ## Creators Name
 Tracy Chemtai.
+
+## FEATURES.
+* Multiple choice question.
+* Score Tracking.
+* API intergration.

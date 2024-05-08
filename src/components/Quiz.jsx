@@ -60,6 +60,7 @@ const Quiz = () => {
       setIndex((prev) => prev + 1);
       setQuestion(questions[index + 1]);
       setLock(false);
+    //   Resets classes for options
       option_array.forEach((option) => {
         option.current.classList.remove("wrong");
         option.current.classList.remove("correct");

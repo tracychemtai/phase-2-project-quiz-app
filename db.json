@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which operating system was released first?",
+        "correct_answer": "Mac OS",
+        "incorrect_answers": [
+          "Windows",
+          "Linux",
+          "OS/2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the name given to Android 4.3?",
+        "correct_answer": "Jelly Bean",
+        "incorrect_answers": [
+          "Lollipop",
+          "Nutella",
+          "Froyo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": [
+          "Paint.NET",
+          "GIMP",
+          "Adobe Photoshop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which internet company began life as an online bookstore called &#039;Cadabra&#039;?",
+        "correct_answer": "Amazon",
+        "incorrect_answers": [
+          "eBay",
+          "Overstock",
+          "Shopify"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "In programming, what do you call functions with the same name but different implementations?",
+        "correct_answer": "Overloading",
+        "incorrect_answers": [
+          "Overriding",
+          "Abstracting",
+          "Inheriting"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Which programming language was developed by Sun Microsystems in 1995?",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+          "Python",
+          "Solaris OS",
+          "C++"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What does the term MIME stand for, in regards to computing?",
+        "correct_answer": "Multipurpose Internet Mail Extensions",
+        "incorrect_answers": [
+          "Mail Internet Mail Exchange",
+          "Multipurpose Interleave Mail Exchange",
+          "Mail Interleave Method Exchange"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What is the name of the default theme that is installed with Windows XP?",
+        "correct_answer": "Luna",
+        "incorrect_answers": [
+          "Neptune",
+          "Whistler",
+          "Bliss"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What was the first Android version specifically optimized for tablets?",
+        "correct_answer": "Honeycomb",
+        "incorrect_answers": [
+          "Eclair",
+          "Froyo",
+          "Marshmellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "What is the main CPU is the Sega Mega Drive / Sega Genesis?",
+        "correct_answer": "Motorola 68000",
+        "incorrect_answers": [
+          "Zilog Z80",
+          "Yamaha YM2612",
+          "Intel 8088"
+        ]
+      }
+    ]
+  }

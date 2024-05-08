@@ -11,3 +11,10 @@ Tracy Chemtai.
 * Multiple choice question.
 * Score Tracking.
 * API intergration.
+
+## USAGE.
+* Git clone the repository to your local machine.
+* Run npm run dev your react app.
+* Answer the questions displayed.
+* Click the next button to move to the next question.
+* At the end of the quiz view your score and click reset to start over.

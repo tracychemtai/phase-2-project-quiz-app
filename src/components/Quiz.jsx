@@ -35,7 +35,8 @@ const Quiz = () => {
       const selectedAnswer = e.target.textContent;
       if (selectedAnswer === question.correct_answer) {
         e.target.classList.add("correct");
-        setLock(true);
+        setLock(true); 
+        // Adds 'correct' class to the correct option
         setScore((prev) => prev + 1);
       } else {
         e.target.classList.add("wrong");

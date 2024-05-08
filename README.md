@@ -18,3 +18,9 @@ Tracy Chemtai.
 * Answer the questions displayed.
 * Click the next button to move to the next question.
 * At the end of the quiz view your score and click reset to start over.
+
+## TECHNOLOGIES USED.
+* HTML
+* CSS
+* Json-server 
+* JavaScript

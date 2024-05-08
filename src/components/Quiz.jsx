@@ -1,6 +1,7 @@
 import React, { useRef, useState, useEffect } from "react";
 import "./Quiz.css";
 
+// State Variables
 const Quiz = () => {
   let [questions, setQuestions] = useState([]);
   let [index, setIndex] = useState(0);

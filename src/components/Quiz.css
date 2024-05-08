@@ -1,3 +1,4 @@
+/* Styles for container */
 .container{
     width: 680px;
     height: 570px;
@@ -16,10 +17,14 @@
     border: none;
     background: #707070;
 }
+
+/* Style for heading */
 .container h3{
     font-size: 27px;
     font-weight: 500;
 }
+
+/* Style for list items */
 .container ul li{
     display: flex;
     align-items: center;
@@ -32,6 +37,7 @@
     cursor: pointer;
 }
 
+/* Style for button */
 .container button{
     margin:auto;
     width: 200px;

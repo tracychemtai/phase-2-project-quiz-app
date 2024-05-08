@@ -29,6 +29,7 @@ const Quiz = () => {
       .catch((error) => console.error(error));
   }, []);
 
+//   Function to check the selected answer.
   const checkAns = (e, ans) => {
     if (lock === false) {
       const selectedAnswer = e.target.textContent;

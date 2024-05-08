@@ -10,6 +10,7 @@ const Quiz = () => {
   let [score, setScore] = useState(0);
   let [result, setResult] = useState(false);
 
+//   Reference for each option to manipulate their classes
   let Option1 = useRef(null);
   let Option2 = useRef(null);
   let Option3 = useRef(null);

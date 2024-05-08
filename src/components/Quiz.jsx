@@ -16,8 +16,9 @@ const Quiz = () => {
   let Option3 = useRef(null);
   let Option4 = useRef(null);
 
-  let option_array = [Option1, Option2, Option3, Option4];
+  let option_array = [Option1, Option2, Option3, Option4]; 
 
+//   Fetch quiz questions from json-server API.
   useEffect(() => {
     fetch("https://my-json-server.typicode.com/tracychemtai/phase-2-project-quiz-app/results")
       .then((response) => response.json())

@@ -68,6 +68,7 @@ const Quiz = () => {
     }
   };
 
+//   Function to reset quiz
   const reset = () => {
     setIndex(0);
     setQuestion(questions[0]);

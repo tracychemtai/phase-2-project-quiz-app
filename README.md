@@ -25,3 +25,5 @@ Tracy Chemtai.
 * Json-server 
 * JavaScript
 
+## QUIZ API
+https://my-json-server.typicode.com/tracychemtai/phase-2-project-quiz-app/results

@@ -40,7 +40,7 @@ const Quiz = () => {
         setScore((prev) => prev + 1);
       } else {
         e.target.classList.add("wrong");
-        setLock(true);
+        setLock(true); // Locks further ansering
         option_array.forEach((optionRef) => {
           if (optionRef.current.textContent === question.correct_answer) {
             optionRef.current.classList.add("correct");
@@ -54,12 +54,12 @@ const Quiz = () => {
   const next = () => {
     if (lock === true) {
       if (index === questions.length - 1) {
-        setResult(true);
+        setResult(true); // Sets the results to true
         return;
       }
-      setIndex((prev) => prev + 1);
-      setQuestion(questions[index + 1]);
-      setLock(false);
+      setIndex((prev) => prev + 1); // Moves to the next question.
+      setQuestion(questions[index + 1]);  
+      setLock(false); // Unlocks answering
     //   Resets classes for options
       option_array.forEach((option) => {
         option.current.classList.remove("wrong");
@@ -70,11 +70,11 @@ const Quiz = () => {
 
 //   Function to reset quiz
   const reset = () => {
-    setIndex(0);
-    setQuestion(questions[0]);
-    setScore(0);
-    setLock(false);
-    setResult(false);
+    setIndex(0); // Resets index
+    setQuestion(questions[0]); // Resets question
+    setScore(0); // Resets Score
+    setLock(false); 
+    setResult(false); // Resets results flag.
   };
 
   return (
